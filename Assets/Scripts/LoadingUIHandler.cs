@@ -31,9 +31,9 @@ public class LoadingUIHandler : MonoBehaviour
 
     private void AssertValues()
     {
-        Assert.IsNull(_progressBar,"Progress Bar Has a Missing Reference");
-        Assert.IsNull(_statusText,"Status Text Has a Missing Reference");
-        Assert.IsNull(_loadingPanel,"Loading Panel Has a Missing Reference");
+        Assert.IsNotNull(_progressBar,"Progress Bar Has a Missing Reference");
+        Assert.IsNotNull(_statusText,"Status Text Has a Missing Reference");
+        Assert.IsNotNull(_loadingPanel,"Loading Panel Has a Missing Reference");
     }
     
     private void OnAssetLoadProgressUpdated(float progress)
