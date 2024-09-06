@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Low_Texture
+  m_EditorClassIdentifier: 
+  m_GroupName: Low_Texture
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 42d41a8e7e26c0549a42bf50146f888f
+  m_SerializeEntries:
+  - m_GUID: c8572dbc63e5d8c4d81bf153bf0f7880
+    m_Address: Low_Lantern_AlbedoOpacity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - LowTextureLantern
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 496deb40cdd234744b73f7ff3091808b
+    m_Address: Low_Door_AlbedoSmoothness
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - LowTextureDoor
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f4eba2de1e0958e4881574d06bc73143
+    m_Address: Low_Candle_AlbedoSmoothness
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - LowTextureCandle
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a5e110c70a13e734b94b6cd128a741b5
+    m_Address: Low_Cabinet_AlbedoSmoothness
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - LowTextureCabinet
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a06c36db8ad0ca84cb8daed0c4b32ed0
+    m_Address: Low_Cabin_AlbedoSmoothness
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - LowTextureCabin
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec9196e13b757f244926539265478a52
+    m_Address: Low_Bed_AlbedoOpacity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - LowTextureBed
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cad46b8514bec044e84e1eb710d23625
+    m_Address: Low_Stool_AlbedoSmoothness
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - LowTextureStool
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c0cdd8cc9011b524c9a76ba3b664f74e
+    m_Address: Low_Table_AlbedoSmoothness
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - LowTextureTable
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 125e0f9a956018549b18e854909681d8, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 472ec22e477ef32418f3c810fd244aea, type: 2}
+    - {fileID: 11400000, guid: 1d4b64bef4ca93e459629a94e638c035, type: 2}

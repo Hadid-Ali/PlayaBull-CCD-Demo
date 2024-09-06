@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: High_Texture
+  m_EditorClassIdentifier: 
+  m_GroupName: High_Texture
+  m_Data:
+    m_SerializedData: []
+  m_GUID: e977ad8b97ba88348bda5f87318393fe
+  m_SerializeEntries:
+  - m_GUID: 8d4de1886f412c24e893d7e2c1f838b8
+    m_Address: Bed_AlbedoOpacity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HighTextureBed
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6d3034f9ca313f24a9458c47922f7487
+    m_Address: Cabin_AlbedoSmoothness
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HighTextureCabin
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 198e242ad4bc1af469949e20e3a351d4
+    m_Address: Cabinet_AlbedoSmoothness
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HighTextureCabinet
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 162807d47d0ed764d9951139577f8d6c
+    m_Address: Candle_AlbedoSmoothness
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HighTextureCandle
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 501b1c7f29c1ea34886bee406bd601fe
+    m_Address: Door_AlbedoSmoothness
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HighTextureDoor
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 340c4e2c72f27fd47a8df61b6773ecd7
+    m_Address: Lantern_AlbedoOpacity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HighTextureLantern
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bc98e39081de8d14981fd5e6d0e3e202
+    m_Address: Stool_AlbedoSmoothness
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HighTextureStool
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 21fc733a4bfc127418ad2ce27252e752
+    m_Address: Table_AlbedoSmoothness
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HighTextureTable
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 125e0f9a956018549b18e854909681d8, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 4959bf911b042a14795e199188750812, type: 2}
+    - {fileID: 11400000, guid: 21ca6ceb198067d4b8cfb39c1352a44d, type: 2}
